@@ -1,0 +1,81 @@
+# https://en.wikipedia.org/wiki/Catalan_phonology
+
+# Vowels
+a s[a]c
+ɛ s[e]c
+e s[é]c
+i s[i]c
+ɔ s[o]c
+o s[ó]c
+u s[u]c
+ɛ s[e]t
+
+
+# Dipthongs
+ai [ai]gua
+əi m[ai]nada
+ai m[ai]nada
+ɛi rem[ei]
+au t[au]la
+ei r[ei]
+əi [Ei]vissa
+ei [Ei]vissa
+eu s[eu]
+ɛu 	p[eu]
+əu c[au]rem
+au c[au]rem
+iu n[iu]
+ɔu n[ou]
+ou p[ou]
+uu d[uu]
+oi n[oi]
+ui M[oi]sès
+oi M[oi]sès
+ui av[ui]
+
+ja [ia]ia
+jə fe[ia]
+jə fe[ia]
+jɛ ve[ie]m
+je se[ie]nt
+jə gràc[ie]s
+je gràc[ie]s
+jɔ [io]de
+jo [io]gurt
+ju [io]gurt
+ju [iu]goslau
+wa g[ua]nt
+wə aq[ua]rel·la
+wa aq[ua]rel·la
+wɛ seq[üè]ncia
+we ung[üe]nt
+wə q[üe]stió
+we di[ue]n
+wi ping[üí]
+wɔ q[uo]ta
+wo se[uó]s
+
+# Consonants
+b [b]ou β
+d [d]e ð
+g [g]ràcies ɣ
+m [m]olt
+n [n]as 
+ɲ diume[n]ge
+ŋ e[n]clusa
+p [p]or
+t [t]u
+t͡ʃ mu[ch]a tʃ
+t͡s to[ts] ts 
+d͡z me[tz]ines dz
+d͡ʒ [ge]l dʒ
+v bla[v]a
+k [q]ue
+f per[f]ecte
+s [s]i z
+ʝ grac[i]es j
+ɫ sò[l]
+l e[l]
+ʎ rat[ll]a
+ɾ mi[r]a
+r mi[rr]a
